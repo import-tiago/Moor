@@ -1,0 +1,19 @@
+# Windows temporary and metadata files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.tmp
+*.temp
+*.log
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Editor swap and backup files
+*.bak
+*.backup
+*.old
+*.orig
+*.swp
+*~
